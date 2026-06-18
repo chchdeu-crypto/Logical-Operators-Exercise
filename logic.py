@@ -29,4 +29,5 @@ print(x or y)
 username =""
 default = "guest"
 print(username or default)
-
+#mission 9
+print(True and False or True)
