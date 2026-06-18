@@ -21,3 +21,7 @@ c = ""
 print(bool(a))
 print(bool(b))
 print(bool(c))
+#mission 7
+x = None
+y = 42
+print(x or y)
