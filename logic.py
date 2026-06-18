@@ -11,3 +11,6 @@ print(not False)
 age = 20
 has_id = True
 print(age>18 and has_id)
+#mission 5
+level = 3 
+print(level>1 and level<5)
