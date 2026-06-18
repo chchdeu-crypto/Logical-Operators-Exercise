@@ -6,7 +6,7 @@ print(is_online and has_access)
 print(is_online or has_access)
 #mission 3
 status = False
-print(not False)
+print(not status)
 #mission 4
 age = 20
 has_id = True
@@ -25,3 +25,8 @@ print(bool(c))
 x = None
 y = 42
 print(x or y)
+#mission 8
+username =""
+default = "guest"
+print(username or default)
+
