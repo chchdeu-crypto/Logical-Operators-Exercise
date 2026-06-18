@@ -14,3 +14,10 @@ print(age>18 and has_id)
 #mission 5
 level = 3 
 print(level>1 and level<5)
+#mission 6
+a = 0
+b = "hello"
+c = ""
+print(bool(a))
+print(bool(b))
+print(bool(c))
