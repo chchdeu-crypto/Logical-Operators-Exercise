@@ -31,3 +31,6 @@ default = "guest"
 print(username or default)
 #mission 9
 print(True and False or True)
+#mission 10
+score = 75
+print(score>=60 and score<=100)
