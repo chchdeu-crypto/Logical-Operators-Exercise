@@ -7,3 +7,7 @@ print(is_online or has_access)
 #mission 3
 status = False
 print(not False)
+#mission 4
+age = 20
+has_id = True
+print(age>18 and has_id)
